@@ -1,5 +1,5 @@
 bootstrap:docker
-From:pvdb90/RNAseq_tools:v1.0
+From:pvdb90/rnaseq_tools:v1.0
 
 
 %post
