@@ -15,5 +15,6 @@ The docker image is built by dockerhub ([hub.docker.com/r/pvdb90/rnaseq_tools/](
  | [Conda package of gffread](https://anaconda.org/bioconda/gffread) | gffread | 0.9.9 | 
  | [Conda package of cutadapt](https://anaconda.org/bioconda/cutadapt) | cutadapt | 1.18 | 
  | [Conda package of sickle-trim](https://anaconda.org/bioconda/sickle-trim) | sickle-trim | 1.33  |  
+ | [Conda package of trimmomatic](https://anaconda.org/bioconda/trimmomatic) | Trimmomatic | 0.38  |  
 
 <a name="samtools">1</a>: RSEM (1.3.1) requires samtools version 1.3, even though there is a newer version.
